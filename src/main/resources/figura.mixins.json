@@ -33,7 +33,6 @@
     "particle.ParticleEngineMixin",
 
     "render.BlockEntityWithoutLevelRendererMixin",
-    "render.CameraMixin",
     "render.EntityRenderDispatcherMixin",
     "render.GameRendererAccessor",
     "render.GameRendererMixin",
